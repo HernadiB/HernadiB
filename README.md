@@ -1,4 +1,4 @@
-# Hi there, I'm Barnabás 👋 
+# Hi there, I'm HernadiB 👋 
 
 [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2FLinkedin.com)](https://www.linkedin.com/in/hern%C3%A1di-barnab%C3%A1s-3646a6238/)
 
