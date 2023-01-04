@@ -40,8 +40,53 @@
 
 ---
 
-  <img align="left" alt="HernadiB GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HernadiB&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+### 📺 Latest YouTube Videos
 
+<!-- YOUTUBE:START -->
+- [Best VS Code Extension for Local Development](https://www.youtube.com/watch?v=taN8XGQXxIM)
+- [Best VS Code Extension EVER!! 🔥🔥🔥](https://www.youtube.com/watch?v=9Ih0OHQ_3B8)
+- [Best VS Code Extension for JavaScript Console Logging](https://www.youtube.com/watch?v=tLZnV1YO45g)
+- [Web Development 101: A Beginner&#39;s Guide to Launching a Successful Career in 2023](https://www.youtube.com/watch?v=8aosxBJQdVc)
+- [VS Code: Easy Refactoring!](https://www.youtube.com/watch?v=E5G6N78mMAc)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
+2. 💪 Opened PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
+3. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
+4. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+5. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 [website]: https://codeSTACKr.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
