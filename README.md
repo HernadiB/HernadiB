@@ -43,10 +43,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=HernadiB&theme=calm_pink&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true"" />
+  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=HernadiB&theme=calm_pink&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true"" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernadiB&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernadiB&layout=compact&size_weight=0.5&count_weight=0.5" />
 </a>
 
 [website]: https://www.linkedin.com/in/hern%C3%A1di-barnab%C3%A1s-3646a6238/
