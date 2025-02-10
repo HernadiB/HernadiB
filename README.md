@@ -40,7 +40,7 @@
 
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-![HernadiB's GitHub stats](https://github-readme-stats.vercel.app/api?username=HernadiB&theme=radical&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25")
+![HernadiB's GitHub stats](https://github-readme-stats.vercel.app/api?username=HernadiB&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=transparent&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25")
 
 [website]: https://www.linkedin.com/in/hern%C3%A1di-barnab%C3%A1s-3646a6238/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
