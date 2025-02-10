@@ -59,6 +59,22 @@
   <img src="https://profile-counter.glitch.me/HernadiB/count.svg" alt="Visitor's Count" />
 </div>
 
+
+##
+
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 [website]: https://www.linkedin.com/in/hern%C3%A1di-barnab%C3%A1s-3646a6238/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
