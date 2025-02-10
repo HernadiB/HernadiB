@@ -50,11 +50,8 @@
 ##2
 [![HernadiB's GitHub stats](https://github-readme-stats.vercel.app/api?username=HernadiB)](https://github.com/HernadiB/github-readme-stats)
 
-##3
-![HernadiB's GitHub stats](https://github-readme-stats.vercel.app/api?username=HernadiB&show_icons=true)
-
 ##4
-![HernadiB's GitHub stats](https://github-readme-stats.vercel.app/api?username=HernadiB&show_icons=true&theme=radical)
+![HernadiB's GitHub stats](https://github-readme-stats.vercel.app/api?username=HernadiB&show_icons=true&theme=radical&show_icons=true&show=reviews)
 
 [website]: https://www.linkedin.com/in/hern%C3%A1di-barnab%C3%A1s-3646a6238/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
