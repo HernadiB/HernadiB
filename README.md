@@ -49,7 +49,7 @@
 ##
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernadiB&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernadiB&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent" />
 </a>
 
 ##
