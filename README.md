@@ -2,6 +2,10 @@
 
 [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2FLinkedin.com)](https://www.linkedin.com/in/hern%C3%A1di-barnab%C3%A1s-3646a6238/)
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/HernadiB/count.svg" alt="Visitor's Count" />
+</div>
 
 
 ## I'm an Automation Test Engineer!!
