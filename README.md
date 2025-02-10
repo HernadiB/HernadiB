@@ -40,11 +40,14 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 
-
+##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=HernadiB&theme=calm_pink&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true"" />
 </a>
+
+##
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernadiB&layout=compact&size_weight=0.5&count_weight=0.5" />
 </a>
