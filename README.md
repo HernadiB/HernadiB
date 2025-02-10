@@ -42,15 +42,6 @@
 
 
 
-![HernadiB's GitHub stats](https://github-readme-stats.vercel.app/api?username=HernadiB&theme=calm_pink&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true")
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HernadiB&layout=compact&size_weight=0.5&count_weight=0.5)
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HernadiB&theme=calm_pink&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true"" />
 </a>
